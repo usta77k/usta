@@ -53,7 +53,7 @@ from telegram.ext import (
 # الإعدادات العامة
 # --------------------------------------------------------------------------
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "PUT_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8594065413:AAEL8kt5KGJnODIjkFVE7UpGTnsz_Br0BFY")
 
 MAX_CLIPS = 15                 # أقصى عدد مقاطع فيديو لكل جلسة
 MAX_CLIP_SECONDS = 120         # أقصى مدة يُقتطع لها كل مقطع مُدخل (دقيقتان)
