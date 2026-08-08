@@ -1,5 +1,0 @@
-python-telegram-bot==21.6
-moviepy==1.0.3
-librosa==0.10.2.post1
-numpy==1.26.4
-soundfile==0.12.1
