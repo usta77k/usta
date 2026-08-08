@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "aptPackages": ["ffmpeg", "libsndfile1"]
-  }
-}
