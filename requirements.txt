@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+opencv-python-headless==4.10.0.84
+numpy
+opennsfw2
+tensorflow-cpu
